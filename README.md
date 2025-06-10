@@ -1,4 +1,4 @@
-Loan Analytics Dashboard – React + Mock API 💸
+Loan Analytics Dashboard – React + Mock API 
 
 This is a self-initiated mini project built as part of my application for the GoodLeap Software Engineering Internship. I used this as a way to practice working with REST APIs, understand frontend-backend interaction, and simulate a basic internal tool used in fintech settings.
 
