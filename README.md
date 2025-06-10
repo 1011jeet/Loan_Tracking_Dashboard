@@ -1,6 +1,6 @@
 # Loan Tracking Dashboard
 
-A mini full-stack project for a Software Engineer Internship application at GoodLeap. This dashboard helps view and filter customer loans, simulating a sustainable home improvement financing platform.
+A mini full-stack project . This dashboard helps view and filter customer loans, simulating a sustainable home improvement financing platform.
 
 ## Features
 - View customer loans in a table
@@ -65,4 +65,4 @@ loan-dashboard/
 
 ---
 
-**Made for GoodLeap Internship Application**
+
