@@ -1,0 +1,10 @@
+{
+  "loans": [
+    { "id": 1, "name": "Alice", "amount": 50000, "status": "Approved", "loan_date": "2024-11-01" },
+    { "id": 2, "name": "Bob", "amount": 30000, "status": "Pending", "loan_date": "2024-10-15" },
+    { "id": 3, "name": "Charlie", "amount": 20000, "status": "Rejected", "loan_date": "2024-09-20" },
+    { "id": 4, "name": "Diana", "amount": 45000, "status": "Approved", "loan_date": "2024-08-05" },
+    { "id": 5, "name": "Eve", "amount": 35000, "status": "Pending", "loan_date": "2024-07-12" },
+    { "id": 6, "name": "Frank", "amount": 60000, "status": "Approved", "loan_date": "2024-06-30" }
+  ]
+} 

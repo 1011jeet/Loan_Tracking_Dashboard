@@ -1,0 +1,30 @@
+.loan-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  background: #fff;
+}
+.loan-table th, .loan-table td {
+  border: 1px solid #ddd;
+  padding: 0.75rem 1rem;
+  text-align: left;
+}
+.loan-table th {
+  background: #f4f4f4;
+}
+.loan-table tr:nth-child(even) {
+  background: #fafafa;
+}
+.loan-table .approved {
+  color: green;
+}
+.loan-table .pending {
+  color: orange;
+}
+.loan-table .rejected {
+  color: red;
+}
+.loading, .error {
+  margin: 1rem 0;
+  font-weight: bold;
+} 

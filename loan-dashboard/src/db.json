@@ -1,0 +1,40 @@
+{
+    "loans": [
+      {
+        "id": 1,
+        "name": "Alice Sharma",
+        "amount": 50000,
+        "status": "Approved",
+        "loan_date": "2024-11-01"
+      },
+      {
+        "id": 2,
+        "name": "Bob Kapoor",
+        "amount": 30000,
+        "status": "Pending",
+        "loan_date": "2024-11-03"
+      },
+      {
+        "id": 3,
+        "name": "Charlie D’Souza",
+        "amount": 20000,
+        "status": "Rejected",
+        "loan_date": "2024-11-05"
+      },
+      {
+        "id": 4,
+        "name": "Deepa Iyer",
+        "amount": 45000,
+        "status": "Approved",
+        "loan_date": "2024-11-10"
+      },
+      {
+        "id": 5,
+        "name": "Eshan Malik",
+        "amount": 25000,
+        "status": "Pending",
+        "loan_date": "2024-11-12"
+      }
+    ]
+  }
+  
